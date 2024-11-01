@@ -1,6 +1,6 @@
 criaCartao(
     'jogador de futebol',
-    'Quantos anos Pele teria hoje',
+    'Quantos anos Pelé teria hoje',
     '84 anos'
 )
 
